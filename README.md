@@ -31,7 +31,7 @@ gem 'pg', '>= 0.18', '< 2.0'
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/addod19/test-fb-clone/issues).
 
 ## Show your support
 
