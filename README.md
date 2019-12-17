@@ -1,6 +1,7 @@
-# Milestone 2: Project setup
+# Milestone 3: Users and Posts
 
-In this project, we prepare the setup for the facebook clone. The following is the link to the odin project requirement. [Getting Started](https://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project)
+In this project, Create models with associations and implement all requested features for users and posts. Add authentication with Devise as described in requirements.
+We will be creating Users and Posts with the devise gem and populate them with faker gem.
 
 
 ### Prerequisites
@@ -10,14 +11,6 @@ In this project, we prepare the setup for the facebook clone. The following is t
 - Ruby on Rails installed and running.
 - A basic familiarity with Ruby on Rails.
 
-
-### Install
-
-```
-gem 'faker', '~> 1.6', '>= 1.6.6'
-gem 'devise', '~> 4.7', '>= 4.7.1'
-gem 'pg', '>= 0.18', '< 2.0'
-```
 ### Run Server
 
 - bundle install
