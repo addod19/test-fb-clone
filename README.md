@@ -18,6 +18,11 @@ gem 'faker', '~> 1.6', '>= 1.6.6'
 gem 'devise', '~> 4.7', '>= 4.7.1'
 gem 'pg', '>= 0.18', '< 2.0'
 ```
+### Run Server
+
+- bundle install
+- rails db:migrate
+- rails s
 
 ## Authors
 
