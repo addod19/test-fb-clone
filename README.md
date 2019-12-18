@@ -17,6 +17,7 @@ In this project, we prepare the setup for the facebook clone. The following is t
 gem 'faker', '~> 1.6', '>= 1.6.6'
 gem 'devise', '~> 4.7', '>= 4.7.1'
 gem 'pg', '>= 0.18', '< 2.0'
+gem 'omniauth-facebook', '~> 5.0'
 ```
 ### Run Server
 
